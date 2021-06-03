@@ -1,0 +1,41 @@
+.display{
+    height: 100px;
+    width: 320px;
+    border: 2px solid black;
+}
+
+.display_cal{
+    height: 25px;
+}
+
+.display_result{
+    height: 73px;
+    border-top: 2px solid black;
+    background-color: gainsboro;
+}
+
+.interact{
+    margin-top: 10px;
+    width: 330px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.button{
+    padding-top: 20px;
+    width: 80px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.button_0{ 
+    width: 160px;
+}
+
+.button:hover{
+    background-color: blanchedalmond;
+}
+
+.form_get_info input{
+    display: none;
+}
